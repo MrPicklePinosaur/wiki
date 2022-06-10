@@ -1,0 +1,6 @@
+= Pinosaur's VimWiki =
+
+== Desktop Specification ==
+
+* [[Home Directory Layout]]
+

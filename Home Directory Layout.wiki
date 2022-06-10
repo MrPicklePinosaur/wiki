@@ -1,0 +1,20 @@
+
+== General Directories ==
+The home directory should have the following directories 
+- *Data*: holds user application data
+- *Downloads*: default download location
+- *Installs*: location to place source code to be manually built, as well as to clone repos for read-only purposes
+- *Notes*: plain text notes
+- *Repos*: repositories to do development on, can also create more subdirectories for each organization
+- *Scripts*: place self written exectuables. this directory should also be added to PATH
+- *Temp*: directory to do experimentation and place random files
+
+In addition, the following directories can be created depending on requirement
+- *Anime*: anime and manga files (maybe rename to Media)
+- *Music*: music and media files
+- *School*: school work, organize based on term, and then course
+- *Torrents*: place torrent files here (maybe can move to Downloads)
+
+== Dotfiles ==
+Attempt to minimize the number of config files, cache files and the like in the home directory. If possible, follow XDG config and place configuration files under `$HOME/.config/<application>`. This is definitely an ongoing battle. I'm also trying to patch some programs like `bash` to conform to this.
+
