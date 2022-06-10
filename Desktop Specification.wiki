@@ -1,0 +1,8 @@
+
+== Desktop Specification ==
+
+My own opinionated standard.
+
+* [[Home Directory Layout]]
+* [[Keybindings]]
+

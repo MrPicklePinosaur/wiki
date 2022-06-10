@@ -1,0 +1,12 @@
+
+== Modifiers ==
+
+The following modifiers should have the following effects/semantics:
+- *Alt*: window manager operations
+- *Super*: device and application operations
+- *Ctrl* - program specific operations (don't bind anything to ctrl)
+
+== Keybindings ==
+
+- `Super + l`: lock screen
+

@@ -1,6 +1,12 @@
 = Pinosaur's VimWiki =
 
-== Desktop Specification ==
+== Standards and Specifications ==
 
-* [[Home Directory Layout]]
+* [[Aliases]]
+* [[Code Style]]
+* [[Desktop Specification]]
+
+== Notes ==
+
+
 

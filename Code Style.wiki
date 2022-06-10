@@ -1,0 +1,3 @@
+
+My own stupid opinions on code best practices and style
+

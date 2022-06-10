@@ -1,0 +1,18 @@
+
+== Single Letter Aliases ==
+Alias the following commonly used commands to one letter:
+- `ls` -> `l`
+- `cd` -> `c`
+- `git` -> `g`
+- `vim` -> `v`
+- `docker` -> `d`
+
+== Combinational Commands ==
+Some commands are commonly ran one after each other, here are some aliases that combine two commands
+- `mkdir <DIR> && cd <DIR>` -> `mkcd <DIR>`
+- `cd <DIR> && ls` -> `cl <DIR>`
+
+== Program Flags ==
+Some commands are commonly ran with a specific flag:
+- `ls -a` -> `la`
+
